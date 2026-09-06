@@ -1,0 +1,22 @@
+id: http://wtwta.org/organisation/user-tools
+name: user-tools
+prefixes:
+  usertools: http://wtwta.org/project/user-tools#
+default_prefix: usertools
+imports:
+  - userscripts
+  - userconf
+
+classes:
+  Shell:
+  Terminal:
+  XDesktop:
+
+  String:
+  Array:
+  AssociativeArray:
+
+#enums:
+#slots:
+
+# usertools_schema.yml @linkml [2026-07-21]
